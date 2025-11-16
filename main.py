@@ -57,7 +57,7 @@ except Exception as e:
 
 # 4. RETRIEVAL LOOP
 while True:
-    query = input("\n❓ Ask about the resume (or 'quit'): ")
+    query = input("\n❓ Ask about the file (or 'quit'): ")
     if query.lower() == 'quit': break
 
     # Embed the question
