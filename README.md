@@ -20,8 +20,6 @@ ollama pull llama3
 
 ### 2. Clone & Setup
 ```bash
-git clone <your-repo-url>
-cd ollama-rag
 pip install -r requirements.txt
 ```
 
